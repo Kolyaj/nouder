@@ -1,0 +1,8 @@
+{
+    "name": "nouder",
+    "version": "0.0.1",
+    "dependencies": {
+        "iclass": "*",
+        "path-to-regexp": "*"
+    }
+}
